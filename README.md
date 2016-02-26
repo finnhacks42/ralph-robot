@@ -22,4 +22,6 @@ You should have a chassis with a lithium battery, charging circuit and 5V booste
 15. Connect the +ve row to VCC on the ultrasonic sensor and the Arduino.
 Congratulations. Your Hardware is ready to go! 
 
+### Code
+Download the arduino IDE from https://www.arduino.cc/en/Main/Software
 
