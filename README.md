@@ -11,7 +11,7 @@ You should have a chassis with a lithium battery, charging circuit and 5V booste
 5. Connect female-male wires to the remaining pins on the motor driver. Post the other end of the wires along with the 2nd ground and 5V wire from the booster through the hole in the center of your bot onto the upper side.
 6. Fix the motor driver to your bot with double sided tape
 7. Turn your bot over.
-
+* ![Ralph2](ralph_top.jpg)
 8. Peel the backing off your breadboard and stick it onto the top side of your bot, above the kinder surprise. 
 9. Put your Arduino on the breadboard such its pins are on either side of the groove down its center.
 10. Mount the HC-SR04 ultrasonic sensor on the breadboard so that it faces forward (and does not overlap with any of the columns of pins used by the arduino).
