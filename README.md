@@ -23,5 +23,8 @@ You should have a chassis with a lithium battery, charging circuit and 5V booste
 Congratulations. Your Hardware is ready to go! 
 
 ### Code
-Download the arduino IDE from https://www.arduino.cc/en/Main/Software
+1. Download the arduino IDE from https://www.arduino.cc/en/Main/Software
+2. Download the NewPing library from https://github.com/PaulStoffregen/NewPing
+
+
 
