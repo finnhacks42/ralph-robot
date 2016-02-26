@@ -7,15 +7,15 @@
 
 NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE); // NewPing setup of pins and maximum distance.
 
-const int rr = 3;
-const int rf = 5;
-const int lr = 6;
-const int lf = 9;
+const int rr = 5;
+const int rf = 3;
+const int lr = 9;
+const int lf = 6;
 
 const int max_ok_dist = 500;
 const int min_ok_dist = 50;
 
-int ok_dist = 500; 
+int ok_dist = 200; 
 int motor_speed=200;
 
 void setup() {
