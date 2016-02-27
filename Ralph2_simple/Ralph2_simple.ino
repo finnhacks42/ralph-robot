@@ -13,6 +13,7 @@ const int lr = 9;
 const int lf = 6;
 
 int ok_dist = 15; 
+int max_speed = 200;
 
 void setup() {
   Serial.begin(115200); // Open serial monitor at 115200 baud to see ping results.
@@ -20,13 +21,6 @@ void setup() {
   pinMode(rr,OUTPUT);
   pinMode(lf,OUTPUT);
   pinMode(lr,OUTPUT);
-}
-
-void loop2(){
-     digitalWrite(lf,LOW);
-     digitalWrite(rr,LOW);
-     digitalWrite(lr,LOW);
-     digitalWrite(rf,HIGH);
 }
 
 void loop() {
@@ -41,17 +35,17 @@ void loop() {
    Serial.println(distance);  
   if (distance < ok_dist) {
    Serial.println("turn turn turn"); 
-   digitalWrite(lf,HIGH);
-   digitalWrite(rr,HIGH);
-   digitalWrite(lr,LOW);
-   digitalWrite(rf,LOW);
+   analogWrite(lf,max_speed);
+   analogWrite(rr,max_speed);
+   analogWrite(lr,0);
+   analogWrite(rf,0);
    
   } else {
     Serial.println("of we go");
-    digitalWrite(lf,HIGH);
-    digitalWrite(rf,HIGH);
-    digitalWrite(rr,LOW);
-    digitalWrite(lr,LOW);
+    analogWrite(lf,max_speed);
+    analogWrite(rf,max_speed);
+    analogWrite(rr,0);
+    analogWrite(lr,0);
   }
   
 }
