@@ -24,7 +24,7 @@ Congratulations. Your Hardware is ready to go!
 
 ### Code
 1. Download the arduino IDE from https://www.arduino.cc/en/Main/Software
-2. Download the NewPing library from https://github.com/PaulStoffregen/NewPing
+2. Download the NewPing library from https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
 
 
