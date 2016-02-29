@@ -28,7 +28,9 @@ Congratulations. Your Hardware is ready to go!
 
 ### Taking things further
 Your kit includes a bunch of parts to experiment with after the session. We've included some links to get you started with each component but don't be afraid to just mess about (and Google). 
-- a pan-tilt mount with two servos (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions, and https://www.arduino.cc/en/Tutorial/Sweep for a simple introduction to controlling servos with Arduino)
+- a pan-tilt mount with two servos (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions, and https://www.arduino.cc/en/Tutorial/Sweep for a simple introduction to controlling servos with Arduino)/
+
+![PANTILT](pantilt.jpg) 
 - a (common cathode) red-greeb-blue light emmitting diode (RGB LED), https://learn.adafruit.com/downloads/pdf/adafruit-arduino-lesson-3-rgb-leds.pdf
 
 ![LED](led.jpg) 
