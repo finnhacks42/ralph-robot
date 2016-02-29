@@ -30,10 +30,14 @@ Congratulations. Your Hardware is ready to go!
 Your kit includes a bunch of parts to experiment with after the session.
 - a pan-tilt mount with two servos (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions).
 - a (common cathode) red-greeb-blue light emmitting diode (RGB LED) 
+
 ![LED](led.jpg) 
 - a light dependent resistor (LDR) 
+
 ![LDR](ldr.jpg)
 - a reflective optical sensor (TCRT5000) 
+
 ![TCRT5000](TCRT5000.jpg)
 - a laser module! 
+
 ![LASER](laser.jpg)
