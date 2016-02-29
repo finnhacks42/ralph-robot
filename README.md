@@ -27,10 +27,11 @@ Congratulations. Your Hardware is ready to go!
 2. Download the NewPing library from https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
 ### Taking things further
-Your kit includes a bunch of parts for you to experiment with.
-- a pan-tilt mount with two servers (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions).
-- a reg-greeb-blue light emmitting diode (RGB LED) 
-- a light dependent resistor (LDR)
-- a laser module!
+Your kit includes a bunch of parts to experiment with after the session.
+- a pan-tilt mount with two servos (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions).
+- a (common cathode) red-greeb-blue light emmitting diode (RGB LED) ![LED](led.jpg) 
+- a light dependent resistor (LDR) ![LDR](ldr.jpg)
+- a reflective optical sensor (TCRT5000) ![TCRT5000](TCRT5000.jpg)
+- a laser module! ![LASER](laser.jpg)
 
 
