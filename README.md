@@ -26,5 +26,11 @@ Congratulations. Your Hardware is ready to go!
 1. Download the arduino IDE from https://www.arduino.cc/en/Main/Software
 2. Download the NewPing library from https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
+### Taking things further
+Your kit includes a bunch of parts for you to experiment with.
+- a pan-tilt mount with two servers (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions).
+- a reg-greeb-blue light emmitting diode (RGB LED) 
+- a light dependent resistor (LDR)
+- a laser module!
 
 
