@@ -27,7 +27,7 @@ Congratulations. Your Hardware is ready to go!
 2. Download the NewPing library from https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
 ### Taking things further
-Your kit includes a bunch of parts to experiment with after the session. The links below contain some links to get you started with each component but don't be afraid to just mess about (and Google). 
+Your kit includes a bunch of parts to experiment with after the session. We've included some links to get you started with each component but don't be afraid to just mess about (and Google). 
 - a pan-tilt mount with two servos (see https://learn.adafruit.com/mini-pan-tilt-kit-assembly/the-tilt-bracket for assembly instructions, and https://www.arduino.cc/en/Tutorial/Sweep for a simple introduction to controlling servos with Arduino)
 - a (common cathode) red-greeb-blue light emmitting diode (RGB LED), https://learn.adafruit.com/downloads/pdf/adafruit-arduino-lesson-3-rgb-leds.pdf
 
@@ -36,9 +36,9 @@ Your kit includes a bunch of parts to experiment with after the session. The lin
 
 
 ![LDR](ldr.jpg)
-- a reflective optical sensor (TCRT5000) 
+- a reflective optical sensor (TCRT5000), http://blog.huntgang.com/2014/06/17/arduino-tcrt5000-build-ir-sensor/
 
-![TCRT5000](TCRT5000.jpg),http://blog.huntgang.com/2014/06/17/arduino-tcrt5000-build-ir-sensor/
+![TCRT5000](TCRT5000.jpg)
 - a laser module! (To blink it on and off, connect - to Ground and the S pin to a digital pin on the Arduino - and use the Blink code).
 
 ![LASER](laser.jpg) 
